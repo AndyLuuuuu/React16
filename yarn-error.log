@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Andy Lu\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js run dev-server
+
+PATH: 
+  C:\Users\Andy Lu\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Andy Lu\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs;C:\Program Files\PuTTY;C:\Users\Andy Lu\AppData\Local\Programs\Python\Python36-32\Scripts;C:\Users\Andy Lu\AppData\Local\Programs\Python\Python36-32;C:\Users\Andy Lu\AppData\Local\Microsoft\WindowsApps;C:\Users\Andy Lu\AppData\Local\atom\bin;C:\Users\Andy Lu\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  9.8.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "D:\\Web Development\\Udemy React 16"
+      at new MessageError (C:\Users\Andy Lu\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
+      at C:\Users\Andy Lu\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Users\Andy Lu\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:98:30)
+      at C:\Users\Andy Lu\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:109:13
+      at <anonymous>
